@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+echo "sai : hi sachin"
+echo "sachin : hi sai"
